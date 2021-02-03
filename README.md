@@ -1,6 +1,4 @@
 # Energy consumption forecasting in energy management systems
-This repo contains the code for the Master Thesis of the same title. The thesis started on 07.01.2020 and ended on 04.01.2020.
-
 There are two study cases commercial buildings and housholds. We attempted to use six RNN-based models to forecast energy consumption, then compare them with ARIMA.
 To prove the feasibility of a new service, which can forecast future demand, we used the best performer in RNN-based models for building an API, only for the study case commercials buildings.
 
